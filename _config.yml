@@ -1,0 +1,14 @@
+layout_spectrum: 0.9642857
+color:
+  saturation: 0.8565163
+  lightness: 0.6274886
+  brandStrength: 0.7821267
+  brandColors:
+    - '#050507'
+    - '#FFFFF5'
+    - '#91ADDD'
+    - '#526EAD'
+    - '#F9B284'
+  rhythmicContrast: 0.9519924
+typography_spectrum: 0.1560924
+name: Sail Artemis
