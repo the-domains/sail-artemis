@@ -1,7 +1,7 @@
-layout_spectrum: 0.9642857
+layout_spectrum: 0.7575188
 color:
   saturation: 0.8565163
-  lightness: 0.6274886
+  lightness: 0.6184211
   brandStrength: 0.7821267
   brandColors:
     - '#050507'
